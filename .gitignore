@@ -1,3 +1,5 @@
 *.DS_Store
 .vscode/
 .idea/
+/Lab01/data/*
+/Lab01/data.zip
